@@ -1,7 +1,7 @@
 # DOS-Shoot-em-up
 C++ DOS Shoot 'em up engine
 
-![shoot](https://github.com/rjpg/DOS-Shoot-em-up/assets/22857941/4696a966-5203-4f08-9026-839afb0d4797)
+https://github.com/rjpg/DOS-Shoot-em-up/assets/22857941/97311bc9-7a29-4a65-9e6e-15a6b53a05e7
 
 Example of using object architecture in C++ to create a (basic) engine for games to manage multiple "processes" (ships) simultaneously for DOS. 
 
